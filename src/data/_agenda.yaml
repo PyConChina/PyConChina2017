@@ -19,7 +19,7 @@ shanghai:
   traffic_en: "Jinke Road Station at Metro Line 2"
   maplink: 'http://f.amap.com/0FFE0i'
   video: 'http://e.vhall.com/597478279'
-  date: 2017年10月22日 8:30 ～ 17:00
+  date: 2017-10-22 8:30 ～ 17:00
   notices: ""
   morning:
     - { time: "", speaker: id_dongliping }
@@ -70,7 +70,7 @@ hangzhou:
   traffic_en: ""
   maplink: 'http://j.map.baidu.com/d0U1F'
   video: 'http://e.vhall.com/799148004'
-  date: 2017年10月21日 9:00 ～ 17:00
+  date: 2017-10-21 9:00 ～ 17:00
   notices: ""
   morning:
     - time: "10:00-10:10"
