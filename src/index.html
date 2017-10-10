@@ -1,10 +1,5 @@
-{% extends "base/_base.html" %}
-
-{% import 'base/_speaker_macro.html' as speaker_macro %}
-
-{% set page_title = message.page_title_index %}
-
-{% block content %}
+{% extends "base/_base.html" %} {% import 'base/_speaker_macro.html' as speaker_macro %} {% set page_title = message.page_title_index
+%} {% block content %}
 
 <div class="ui vertical stripe segment pycon-odd-seg">
   <div class="ui middle aligned stackable grid container">
@@ -14,27 +9,26 @@
         <p>{{ message.pycon_intro }}</p>
       </div>
       {% macro agenda_link(city) %}
-        <div class="step">
-          <!--<i class="{{ 'remove from calendar' if city.completed else 'in cart' }} icon"></i>-->
-          <div class="content">
-            <div class="title">{{ city.name }}</div>
-            <div class="description">{{ city.date }}</div>
-          </div>
+      <div class="step">
+        <!--<i class="{{ 'remove from calendar' if city.completed else 'in cart' }} icon"></i>-->
+        <div class="content">
+          <div class="title">{{ city.name }}</div>
+          <div class="description">{{ city.date }}</div>
         </div>
+      </div>
       {% endmacro %}
 
       <div class="six wide right floated column">
         <div class="ui vertical steps">
-          {% for city_name in agenda.city_list %}
-            {{ agenda_link(agenda[city_name]) }}
-          {% endfor %}
+          {% for city_name in agenda.city_list %} {{ agenda_link(agenda[city_name]) }} {% endfor %}
         </div>
       </div>
     </div>
     <div class="row">
       <div class="center aligned column">
-        <a class="ui huge primary button" href="{{ site.booking_url }}" target="_blank">{{ message.booking_now }}</a>
-        <a class="ui huge primary button" href="{{ site.booking_url }}" target="_blank">{{ message.booking_now }}</a>
+        <a class="ui huge primary button" href="{{ site.shanghai.booking_url }}" target="_blank">{{ message.shanghai_booking_now }}</a>
+        <a class="ui huge primary button" href="{{ site.hangzhou.booking_url }}" target="_blank">{{ message.hangzhou_booking_now }}</a>
+
       </div>
     </div>
   </div>
@@ -45,45 +39,35 @@
 <div class="ui vertical stripe center aligned segment pycon-odd-seg">
 
   {% macro sponsor_block(sponsor_meta, sponsor_list) %}
-    <div class="ui text container">
-      <h3 class="ui center aligned header sponsors">{{ sponsor_meta.name }}</h3>
+  <div class="ui text container">
+    <h3 class="ui center aligned header sponsors">{{ sponsor_meta.name }}</h3>
+  </div>
+  <div class="ui container">
+    <div class="ui small images sponsors">
+      {% if sponsor_list %} {% for sponsor_info in sponsor_list %}
+      <a href="{{ sponsor_info.link }}" target="_blank">
+        <img class="ui image" src="{{ sponsor_info.logo }}">
+      </a>
+      {% endfor %} {% endif %}
     </div>
-    <div class="ui container">
-      <div class="ui small images sponsors">
-        {% if sponsor_list %}
-          {% for sponsor_info in sponsor_list %}
-            <a href="{{ sponsor_info.link }}" target="_blank">
-              <img class="ui image" src="{{ sponsor_info.logo }}">
-            </a>
-          {% endfor %}
-        {% endif %}
-      </div>
-    </div>
-  {% endmacro %}
-
-  {% for sponsor_meta in sponsors.meta %}
-    {{ sponsor_block(sponsor_meta, sponsors[sponsor_meta.level]) }}
-  {% endfor %}
+  </div>
+  {% endmacro %} {% for sponsor_meta in sponsors.meta %} {{ sponsor_block(sponsor_meta, sponsors[sponsor_meta.level]) }} {%
+  endfor %}
 
 </div>
 
 
 <!-- 讲师 -->
 <!-- FIXME: DRY -->
-{% for city in agenda.city_list %}
-  {% set speaker_city = agenda[city].name + message.speakers %}
-  {% set extra_class = loop.cycle('pycon-even-seg', 'pycon-odd-seg') %}
-  {{ speaker_macro.speaker_block(speaker_city, selectspeakers(speakers, city), extra_class) }}
-{% endfor %}
+{% for city in agenda.city_list %} {% set speaker_city = agenda[city].name + message.speakers %} {% set extra_class = loop.cycle('pycon-even-seg',
+'pycon-odd-seg') %} {{ speaker_macro.speaker_block(speaker_city, selectspeakers(speakers, city), extra_class) }} {% endfor
+%}
 
 
 <!-- 蠎人赞助 -->
 <!-- FIXME: DRY -->
-{% if agenda.city_list|length % 2 == 0 %}
-  {% set extra_class = "pycon-even-seg" %}
-{% else %}
-  {% set extra_class = "pycon-odd-seg" %}
-{% endif %}
+{% if agenda.city_list|length % 2 == 0 %} {% set extra_class = "pycon-even-seg" %} {% else %} {% set extra_class = "pycon-odd-seg"
+%} {% endif %}
 <div class="ui vertical stripe center aligned segment {{ extra_class }}">
 
   <div class="ui text container">
@@ -94,10 +78,9 @@
 
   <div class="ui container pythoners">
     {% for donator in donators %}
-      <a class="ui image label">
-        <img src="./asset/images/avatar/small/{{ loop.cycle('1', '2', '3') }}.jpg">
-        {{ donator}}
-      </a>
+    <a class="ui image label">
+      <img src="./asset/images/avatar/small/{{ loop.cycle('1', '2', '3') }}.jpg"> {{ donator}}
+    </a>
     {% endfor %}
   </div>
 

@@ -10,3 +10,9 @@ base_url: "."
 base_url_en: ".."
 booking_url: http://event.3188.la/360382398
 booking_url_en: http://event.3188.la/360382398
+
+hangzhou:
+  booking_url: http://www.huodongxing.com/go/pyconchina2017hz
+
+shanghai:
+  booking_url: http://www.huodongxing.com/go/pyconchina2017sh
