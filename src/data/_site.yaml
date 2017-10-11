@@ -1,12 +1,18 @@
-name: PyConChina2016
-title: PyCon 2016 China
-description: Python中国2016大会官方网站
-description_en: The official site for PyCon China 2016
+name: PyConChina2017
+title: PyCon 2017 China
+description: Python中国2017大会官方网站
+description_en: The official site for PyCon China 2017
 author: support@PyChina.org
-url: http://cn.pycon.org/2016/
+url: http://cn.pycon.org/2017/
 home_url: "./"
 home_url_en: "./en/"
 base_url: "."
 base_url_en: ".."
 booking_url: http://event.3188.la/360382398
 booking_url_en: http://event.3188.la/360382398
+
+hangzhou:
+  booking_url: http://www.huodongxing.com/go/pyconchina2017hz
+
+shanghai:
+  booking_url: http://www.huodongxing.com/go/pyconchina2017sh

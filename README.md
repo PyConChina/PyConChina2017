@@ -1,5 +1,5 @@
-# PyConChina2016
-The official website of PyCon China 2016, 基于 [https://github.com/PyConChina/staticpycon](https://github.com/PyConChina/staticpycon)
+# PyConChina2017
+The official website of PyCon China 2017, 基于 [https://github.com/PyConChina/staticpycon](https://github.com/PyConChina/staticpycon)
 
 ## Dev
 

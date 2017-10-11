@@ -1,5 +1,5 @@
-- title: PyConChina2016
-  title_en: PyConChina2016
+- title: PyConChina2017
+  title_en: PyConChina2017
   url: "index.html"
   url_en: "en/index.html"
 - title: 讲师
@@ -26,14 +26,6 @@
     title_en: Shanghai
     url: "shanghai.html"
     url_en: "en/shanghai.html"
-  - title: 深圳
-    title_en: Shenzhen
-    url: "shenzhen.html"
-    url_en: "en/shenzhen.html"
-  - title: 北京
-    title_en: Beijing
-    url: "beijing.html"
-    url_en: "en/beijing.html"
   - title: 杭州
     title_en: Hangzhou
     url: "hangzhou.html"
@@ -69,6 +61,11 @@
     title_en: 2015
     url: "http://cn.pycon.org/2015/"
     url_en: "http://cn.pycon.org/2015/en/index.html"
+    url_external: 1
+  - title: 2016
+    title_en: 2016
+    url: "http://cn.pycon.org/2016/"
+    url_en: "http://cn.pycon.org/2016/en/index.html"
     url_external: 1
 - title: EN
   title_en: 中文
