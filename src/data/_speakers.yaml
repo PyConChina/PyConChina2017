@@ -163,7 +163,7 @@ id_gaojin:
     title: "使用 docker 来创建可扩展的分布式爬虫"
     title_en: "Create an Extensible Distributed Crawler with Docker"
     preview: "对于爬虫来说，抓取速度一直是一个问题。本主题是利用了 docker 的特性 “一次 build,run anywhere” 与 scrapy-redis 相结合，来创建一个可扩展的分布式爬虫。整个流程如下：爬虫代码编写完成后，push 到仓库后，自动进行 docker 镜像 build，build 完成后自动创建应用，可自定义容器数量（随时可以更改），这样一个自动可扩展的分布式爬虫就完成了。"
-    preview_en: "Crawling speed has always been a problem for crawlers. This topic takes advantage of the key feature of docker, "once build, run anywhere", with scrapy-redis, to create a scalable distributed crawler. The whole process is as follows: Code the crawler, Push the code to codelab, build docker automatically, create application automatically. One can customize the number of containers. So that an automatic scalable distributed crawler is complete."
+    preview_en: "Crawling speed has always been a problem for crawlers. This topic takes advantage of the key feature of docker, \"once build, run anywhere\", with scrapy-redis, to create a scalable distributed crawler. The whole process is as follows: Code the crawler, Push the code to codelab, build docker automatically, create application automatically. One can customize the number of containers. So that an automatic scalable distributed crawler is complete."
     slide:
 
 id_zhangweipeng:
