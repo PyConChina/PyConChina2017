@@ -3,7 +3,6 @@
 ####################################################################
 id_liaoruiqi:
   name: 廖瑞奇
-
   name_en: "Ruiqi Liao"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/liaoruiqi.jpg
@@ -19,16 +18,17 @@ id_liaoruiqi:
 
 id_feilianghong:
   name: 费良宏
+  name_en: "Lianghong Fei"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/feilianghong.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/feilianghong.jpg
   intro: "AWS 首席云计算技术顾问，拥有超过 20 年在 IT 行业以及软件开发领域的工作经验。在此之前他曾经任职于 Microsoft、Apple 等知名企业，任职架构师、技术顾问等职务，参与过多个大型软件项目的设计、开发与项目管理。目前专注于云计算以及互联网等技术领域，致力于帮助中国的开发者构建基于云计算的新一代的互联网应用。"
-  intro_en: ""
+  intro_en: "Chief Cloud Computing Technical Consultant of AWS, Lianghong Fei has more than 20 years of experience in IT industry and software development. He once worked for a number of well-known companies such as Microsoft and Apple, served as architect, technical consultant, and participated in the design, development and project management of several large software projects. Currently, focused on cloud computing and the Internet and other technical areas, Fei is committed to helping Chinese developers to build the next generation Internet applications based on cloud computing."
   shanghai_topic:
     title: "Getting Start MXNet with Python"
-    title_en: ""
-    preview: "深入的学习技术的进步推动了计算机视觉、自然语言处理以及推荐系统等领域的快速发展。这一变化 很重要的原因就是是充分利用了 GPU 加速计算并具备了高度灵活和开发人员友好的深度学习框架的出现以及发展。 在本议题中将为您介绍 MXNet 框架的特点以及如何利用此框架进行深度学习应用的开发。Apache MXNet 是一个开源的、精简的、具有灵活和高度可扩展能力的深度学习框架，它支持深度学习模型中的最新技术，包括卷积神经网络（CNN）和长短期记忆网络（LSTM）等。 您还将学习如何快速开始使用 AWS 云中的 NVIDIA GPU，以及如何在几分钟内轻松扩展到数百个 GPU 实现分布式的大规模集群上的模型训练。"
-    preview_en: ""
+    title_en: "Getting Start MXNet with Python"
+    preview: "深度学习技术的进步推动了计算机视觉、自然语言处理以及推荐系统等领域的快速发展。这一变化很重要的原因就是是充分利用了 GPU 加速计算并具备了高度灵活和开发人员友好的深度学习框架的出现以及发展。在本议题中将为您介绍 MXNet 框架的特点以及如何利用此框架进行深度学习应用的开发。Apache MXNet 是一个开源的、精简的、具有灵活和高度可扩展能力的深度学习框架，它支持深度学习模型中的最新技术，包括卷积神经网络（CNN）和长短期记忆网络（LSTM）等。 您还将学习如何快速开始使用 AWS 云中的 NVIDIA GPU，以及如何在几分钟内轻松扩展到数百个 GPU ，实现分布式的大规模集群上的模型训练。"
+    preview_en: "The advancement of deep learning has led to the rapid development of computer vision, natural language processing and recommendation systems. Part of the reason of this change is the use of GPU to accelerate the calculation, and the appearance of highly flexible and developer-friendly deep learning frameworks. In this topic, Lianghong Fei will introduce the features of the MXNet framework and how to use this framework for deep learning applications development. Apache MXNet is an open source, streamlined, flexible and highly scalable deep learning framework, which supports the latest technologies in deep learning, including convolution neural networks (CNNs) and long short-term memory networks (LSTMs). You will also learn how to quickly start using the NVIDIA GPU in the AWS cloud, and how to easily scale to hundreds of GPUs in a few minutes to train a deep learning network model on a distributed large-scale cluster."
     slide:
 
 id_wangjianfeng:
