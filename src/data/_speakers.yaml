@@ -3,17 +3,18 @@
 ####################################################################
 id_liaoruiqi:
   name: 廖瑞奇
- 
+
+  name_en: "Ruiqi Liao"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/liaoruiqi.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/liaoruiqi.jpg
-  intro: "达达 - 京东到家配送算法团队负责人,  在机器学习、物流算法、计算广告等领域有着丰富的实践经验。2016 年初加入达达，从 0 到 1 建立起达达的算法团队。目前主要负责订单指派、动态定价、路径规划等相关工作，希望利用人工智能的力量改变同城配送的效率与成本，实现更为智能的即时物流。"
-  intro_en: ""
+  intro: "达达 - 京东到家配送算法团队负责人，在机器学习、物流算法、计算广告等领域有着丰富的实践经验。2016 年初加入达达，从 0 到 1 建立起达达的算法团队。目前主要负责订单指派、动态定价、路径规划等相关工作，希望利用人工智能的力量改变同城配送的效率与成本，实现更为智能的即时物流。"
+  intro_en: "Leader of Dada-Jingdong Home distribution algorithm team, Ruiqi Liao have rich experience in machine learning, logistics algorithm and computing advertising. In early 2016, Liao joined Dada, and build the algorithm team from scratch. Now, he is mainly responsible for order assignment, dynamic pricing, path planning and some related work, wishing to optimize the effectiveness and cost of distribution with the power of AI, and achieve more intelligent real-time logistics."
   shanghai_topic:
     title: "人工智能与即时物流：达达 - 京东到家的算法实践"
-    title_en: ""
+    title_en: "AI and Real-time Logistics: Dada-Jingdong Home Algorithm Practice"
     preview: "作为国内最大的众包物流平台，达达拥有数百万兼职配送员，每天为数百万订单提供即时配送服务。在即时物流算法这一全新的领域里，达达在订单智能指派、供需预测、动态定价、路径规划等多个方面进行了探索和实践。机器学习和人工智能技术的应用有效提升了平台的运行效率，实现了平台的高度自动化运行。本次分享将首次为大家介绍达达在相关领域的一些实践经验。"
-    preview_en: ""
+    preview_en: "As the largest logistics platform in China, Dada has millions of part-time distribution staff, providing real-time delivery services for millions of orders per day. In the real-time logistics algorithm area, Dada has explored and practiced many aspects such as intelligent order assignment, supply and demand forecasting, dynamic pricing, path planning and so on. The user of Machine learning and artificial intelligence effectively enhanced the operational efficiency of the platform, achieving a high degree of automation platform operation. This sharing will be the first time to introduce Dada's experience in the relevant areas."
     slide: #
 
 id_feilianghong:
