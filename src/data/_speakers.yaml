@@ -93,16 +93,17 @@ id_gaominquan:
 
 id_houkai:
   name: 侯凯
+  name_en: "Kai Hou"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/houkai.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/houkai.jpg
-  intro: "爱因互动科技发展（北京）有限公司高级开发工程师，现任爱因互动高级开发工程师. 有 8 年 Python 相关开发经历. 现在主要负责 聊天机器人服务化的相关开发"
-  intro_en: ""
+  intro: "爱因互动科技发展（北京）有限公司高级开发工程师， 有 8 年 Python 相关开发经历。 现在主要负责聊天机器人服务化的相关开发"
+  intro_en: "Senior development engineer of Einplus (Beijing) Co., Ltd., Kai Hou has 8 years of Python  development experience. Hou is now mainly responsible for the development of chat robots"
   shanghai_topic:
     title: "ChatBot 服务化的工程实践"
-    title_en: ""
+    title_en: "Engineering Practice of ChatBot Servicelization"
     preview: "该话题主要介绍了爱因互动基于 Python 技术栈, 开发和交付 ChatBot 的一些工程实践. 内容涉及 ChatBot 服务的基本结构和部署流程, 以及 ChatBot 使用的算法模型的训练和更新的服务化. 同时也会向大家介绍我们在上述流程中用到的一些 Python 工具库"
-    preview_en: ""
+    preview_en: "This topic introduces some engineering practices based on the Python technology stack,  development, and delivery of ChatBot, which involves the basic structure and deployment process of the ChatBot service , as well as the servicelization of training and updating. Some Python tool packages used in ChatBot service will also be introduced."
     slide:
 
 id_gezhixiong:
