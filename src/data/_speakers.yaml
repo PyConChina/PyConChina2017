@@ -4,7 +4,7 @@
 id_liaoruiqi:
   name: 廖瑞奇
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/liaoruiqi.jpg
+  avatar: /asset/images/avatar-2017/speakers/liaoruiqi.jpg
   intro: "达达 - 京东到家配送算法团队负责人,  在机器学习、物流算法、计算广告等领域有着丰富的实践经验。2016 年初加入达达，从 0 到 1 建立起达达的算法团队。目前主要负责订单指派、动态定价、路径规划等相关工作，希望利用人工智能的力量改变同城配送的效率与成本，实现更为智能的即时物流。"
   intro_en: ""
   shanghai_topic:
@@ -17,7 +17,7 @@ id_liaoruiqi:
 id_feilianghong:
   name: 费良宏
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/feilianghong.jpg
+  avatar: /asset/images/avatar-2017/speakers/feilianghong.jpg
   intro: "AWS 首席云计算技术顾问，拥有超过 20 年在 IT 行业以及软件开发领域的工作经验。在此之前他曾经任职于 Microsoft、Apple 等知名企业，任职架构师、技术顾问等职务，参与过多个大型软件项目的设计、开发与项目管理。目前专注于云计算以及互联网等技术领域，致力于帮助中国的开发者构建基于云计算的新一代的互联网应用。"
   intro_en: ""
   shanghai_topic:
@@ -30,7 +30,7 @@ id_feilianghong:
 id_wangjianfeng:
   name: 王剑峰
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/wangjianfeng.jpg
+  avatar: /asset/images/avatar-2017/speakers/wangjianfeng.jpg
   intro: "上海开阖软件有限公司 创始人兼 CEO，Python 开源企业信息化项目 GoodERP 发起者，9 年 Python 开发经验，12 年 SAP 二次开发经验，5 年会计从业经验，曾任 OpenERP 中文社区社区经理，曾担任 37 个 Odoo 实施项目经理。"
   intro_en: ""
   shanghai_topic:
@@ -43,7 +43,7 @@ id_wangjianfeng:
 id_lijiaxuan:
   name: 李嘉璇
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/lijiaxuan.jpg
+  avatar: /asset/images/avatar-2017/speakers/lijiaxuan.jpg
   intro: "《TensorFlow 技术解析与实战》（版权也已被台湾引进）作者，51CTO WOTI、Oreilly Strata、Boolan 等大会深度学习讲师。对深度学习框架的架构、源码分析及在不同领域的应用有浓厚兴趣。有处理图像、社交文本数据情感分析、数据挖掘等实战经验。曾任职百度研发工程师，目前研究构建高性能的神经网络模型及 TensorFlow 下的压缩工具链，包括模型量化、常数化、剪枝。"
   intro_en: ""
   shanghai_topic:
@@ -56,7 +56,7 @@ id_lijiaxuan:
 id_xiehanjian:
   name: 谢晗剑（Jan Xie）
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/xiehanjian.jpg
+  avatar: /asset/images/avatar-2017/speakers/xiehanjian.jpg
   intro: "秘猿科技首席执行官 & 联合创始人。区块链专业社区 EthFans 联合创始人。以太坊核心研发团队成员。DEVCON2 、DEVCON3 大会演讲嘉宾。 开源数字资产交易所 Peatio 核心开发者。拥有超过 10 年的软件系统架构与开发经验。"
   intro_en: ""
   shanghai_topic:
@@ -69,7 +69,7 @@ id_xiehanjian:
 id_gaominquan:
   name: 高民权
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/gaominquan.jpg
+  avatar: /asset/images/avatar-2017/speakers/gaominquan.jpg
   intro: "浙江大学计算机研究生（目前已签约阿里巴巴集团高级工程师），专注领域为机器学习（自然语言理解， 文本自动生成， ChatBot）。 Python 使用 6 年。 研究生期间曾作为联合创始人创建宁波乔克兄弟杭州互联网中心."
   intro_en: ""
   shanghai_topic:
@@ -82,7 +82,7 @@ id_gaominquan:
 id_houkai:
   name: 侯凯
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/houkai.jpg
+  avatar: /asset/images/avatar-2017/speakers/houkai.jpg
   intro: "爱因互动科技发展（北京）有限公司高级开发工程师，现任爱因互动高级开发工程师. 有 8 年 Python 相关开发经历. 现在主要负责 聊天机器人服务化的相关开发"
   intro_en: ""
   shanghai_topic:
@@ -95,7 +95,7 @@ id_houkai:
 id_gezhixiong:
   name: 葛志雄
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/gezhixiong.jpg
+  avatar: /asset/images/avatar-2017/speakers/gezhixiong.jpg
   intro: "资深开发工程师，曾在高频套利私募担任交易总监，峰值交易量市场占比超过 70%，年交易量高达千亿级别。现在在知名企业任职资深开发工程师，做智能金融方向的开发工作。国内知名开源项目 potato（原 pyalgotrade-cn）发起人，是首个整合了分布式计算框架的开源交易系统，可以支持上万个交易单元。对向量化计算在回测中的应用有丰富的经验，开发过 cta 和多因子类的向量化回测平台，相比于事件驱动平台速度提升 200 倍。"
   intro_en: ""
   shanghai_topic:
@@ -108,7 +108,7 @@ id_gezhixiong:
 id_yaotangren:
   name: 姚唐仁
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/yaotangren.jpg
+  avatar: /asset/images/avatar-2017/speakers/yaotangren.jpg
   intro: "七牛云人工智能实验室首席架构师，负责机器学习平台的设计与研发。在分布式系统，分布式存储领域有丰富的设计与实现的经验。曾在 IBM 系统与科技实验室从事高端企业存储设计与研发工作，在华为担任云存储架构师。"
   intro_en: ""
   shanghai_topic:
@@ -121,7 +121,7 @@ id_yaotangren:
 id_huhaoran:
   name: 胡昊然
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/huhaoran.jpg
+  avatar: /asset/images/avatar-2017/speakers/huhaoran.jpg
   intro: "华为 CloudBU 性能与工具部 高级工程师，曾在 IBM 系统实验室工作近 4 年。"
   intro_en: ""
   shanghai_topic:
@@ -134,7 +134,7 @@ id_huhaoran:
 id_gaojin:
   name: 高金
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/gaojin.jpg
+  avatar: /asset/images/avatar-2017/speakers/gaojin.jpg
   intro: "现任博易智软爬虫工程师。知乎专栏 “爬虫从入门到精通” 作者。对爬虫有很深入的了解。"
   intro_en: ""
   shanghai_topic:
@@ -147,7 +147,7 @@ id_gaojin:
 id_zhangweipeng:
   name: 张卫鹏
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/zhangweipeng.jpg
+  avatar: /asset/images/avatar-2017/speakers/zhangweipeng.jpg
   intro: "天壤网络科技天弈围棋项目负责人，专注于深度学习和强化学习，曾任电商广告决策系统负责人，目前为天弈围棋项目负责人。毕业于上海交通大学 Apex 实验室机器学习方向硕士，曾在 IBM 中国研究院负责 IBM 全球产品推荐系统，发表国际会议论文 4 篇，并发明美国专利 6 篇。活跃于机器学习与数据挖掘平台 Kaggle，在平台用户中排名 TOP1%。在机器学习和深度学习方向有比较深入的研究与实践。"
   intro_en: ""
   shanghai_topic:
@@ -178,10 +178,10 @@ id_zhangweipeng:
     preview_en: ""
     slide:
 
-id_zhangweipeng:
-  name: 丁老师
+id_dinglaiqiang:
+  name: 丁来强
   city_shanghai: 1
-  avatar: ./asset/images/avatar-2017/speakers/ding.jpg
+  avatar: /asset/images/avatar-2017/speakers/ding.jpg
   intro: "美国纳斯达克上市的顶级大数据技术平台公司的工程架构师，历任 EMC 首席工程师、趋势科技技术经理等。从业超过 10 年，熟悉大数据平台构建技术、大数据分析可视化技术，安全领域技术等。Python 专家，擅长 Python、C++、JS 与 Scala。在大数据处理与安全领域，拥有 6 项美国专利。PyCon 历届首席讲师，TDI 讲师，曾经在 PyCon2015、PyCon2016 分享过 6 场与多达 5 个议题，覆盖大数据分析可视化与工作流调度、函数式、设计模式与 Python 核心语言等方面，听众赞誉极高。"
   intro_en: ""
   shanghai_topic:
@@ -359,36 +359,6 @@ id_tiantaotao:
     preview: "随着越来越多的IT基础设施迁移进入云端，需要更方便的方案降低用户入云的门槛，有序的实现资源的配置管理和生命周期管理，并且通过可复用的方式快速的创建资源和运行环境。社区中已有的很多自动化的管理工具例如Ansible可以实现一部分的自动化工作，我们将结合Ansible与阿里云的云服务资源编排(ROS)通过一种标准化的方式完成云资源的创建和应用交付，实现云端的Infrastructure as Code(基础设施即代码)。"
     preview_en: ...
     slide: "http://ocgxshkaw.bkt.clouddn.com/3《Infrastructure as Code In Aliyun》田涛涛.pdf"
-
-
-id_dinglaiqiang:
-  name:  丁来强
-  city_beijing: 1
-  city_shanghai: 1
-  city_shenzhen: 1
-  avatar: http://ocgxshkaw.bkt.clouddn.com/dinglaiqiang.jpg
-  intro: "盛庞卡(Splunk)上海实验室    从业10+年, Splunk(美国纳斯达克第一家纯大数据的上市公司)在中国实验室的高级技术经理, 负责大数据平台相关的采集转换和数据可视化等相关的工作. 技术兴趣广泛. 擅长C++/Python与JS。曾在PyCon 2015大会上做过关于大数据分析处理可视化以及高效函数式编程的演讲，深受好评。 "
-  intro_en: ...
-  shanghai_topic:
-    title: "使用Python进行高效大数据工作流与任务调度"
-    title_en: "..."
-    preview: "大数据技术的百花齐放，工作流与任务调度是其中不可或缺的一环，本议题重点介绍了基于纯Python的Apache Airflow与Spotify Luigi方案，覆盖问题调整、原理技术、工具扩展、最佳实践与未来发展等。也涉及了其他非Python的解决方案如Linkedin Azkaban，Apache Oozie等。"
-    preview_en: ...
-    slide: http://ocgxshkaw.bkt.clouddn.com/1%E3%80%8A%E4%BD%BF%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E9%AB%98%E6%95%88%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%BD%9C%E6%B5%81%E4%B8%8E%E4%BB%BB%E5%8A%A1%E8%B0%83%E5%BA%A6%E3%80%8B%E4%B8%81%E6%9D%A5%E5%BC%BA.pdf
-  beijing_topic:
-    title: "Python and Design Pattern"
-    title_en: "Python and Design Pattern"
-    preview: "设计模式一直是一个热门话题，这包括GOF的23个模式、常见并发模式以及Java为代表发展出来的其他模式（例如DI），另外在函数式编程的流行背景下的演变，也催生了一些新的模式。这些设计模式在动态语言的Python的应用场景中又如何在实现上变化、实现和使用呢？除了GOF模式，还有哪些其他模式尤其是并发与函数式模式在Python下是如何应用的呢？本议题介绍了设计模式在Python的误解以及总体实践情况，结合常见的GOF与非GOF设计模式与Python来谈，并从函数式和并发编程的角度来看Python与设计模式的关系以及应用常见和技术实现的变化和实践经验，总共覆盖30多个设计模式。本议题详细覆盖了挑选的过半的GOF的设计模式，覆盖了多个关键的函数式设计模式，多个有用的并发模式以及其他几个流行的非GOF的设计模式（例如DI）在Python中的技术实现与应用实践。"
-    preview_en: ""
-    slide: "http://ocgxshkaw.bkt.clouddn.com/2《Python and Design Pattern》丁来强.pdf"
-  shenzhen_topic:
-    title: "Python hooking, patching and injection"
-    title_en: "Python hooking, patching and injection"
-    preview: "Python的强大语言特性和生态系统为其高效开发和数据分析提供了强力的支撑，其灵活的语言设计也为一些hacking技术提供可能，并由其产生了许多强大的神奇的工具和模式。本议题介绍了Python hooking、patching和injection等技术和原理，结合流行框架和库的使用、工具、安全、检测等场景的应用。使得听众可以学习相关技术，并了解在什么样的场景下使用。"
-    preview_en: ""
-    slide: "http://ocgxshkaw.bkt.clouddn.com/2《Python hooking, patching and injection》丁来强.pdf"
-
-
 
 id_zhanghuayi:
   name: 张华翼
