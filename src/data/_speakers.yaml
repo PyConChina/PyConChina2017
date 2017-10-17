@@ -108,16 +108,17 @@ id_houkai:
 
 id_gezhixiong:
   name: 葛志雄
+  name_en: "Zhixiong Ge"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/gezhixiong.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/gezhixiong.jpg
   intro: "资深开发工程师，曾在高频套利私募担任交易总监，峰值交易量市场占比超过 70%，年交易量高达千亿级别。现在在知名企业任职资深开发工程师，做智能金融方向的开发工作。国内知名开源项目 potato（原 pyalgotrade-cn）发起人，是首个整合了分布式计算框架的开源交易系统，可以支持上万个交易单元。对向量化计算在回测中的应用有丰富的经验，开发过 cta 和多因子类的向量化回测平台，相比于事件驱动平台速度提升 200 倍。"
-  intro_en: ""
+  intro_en: "Zhixiong Ge is a Senior development engineer. Ge was a director of the transaction of a  high-frequency arbitrage, whiose peak trading volume accounted for more than 70% of the entire market, and the annual trading volume of whom up to 100 billion level. Ge is working for a well-known enterprises, doing the development work of intelligent financial. Ge is the sponsor of potato (formerly pyalgotrade-cn), the first integrated computing framework of the open source trading system, which can support tens of thousands of trading units. Ge has a wealth of experience in the application of vectorization computation in the back-testing, and has developed some vectorized multi-factor classes back-testing platform, which is 200 times faster than the event-driven platforms."
   shanghai_topic:
     title: "如何搭建支持千亿级别成交量的交易系统"
-    title_en: ""
+    title_en: "How to build a 100 billion level trading system"
     preview: "近 5 年来，程序化交易在整个二级市场中的交易量占比不断上升，但是相比于国外，还有非常大的发展空间。程序化交易相比人工交易有很大优势，如报单速度，精确控制成本，全天候多市场监控。套利交易，是程序化交易的发源地。因为套利交易具有持续时间短，监控品种多的特点，对交易系统的稳定性和强健性有着极高的要求。2015 年牛市中，A 股市场交易量突破万亿，也是套利交易获利最丰厚的一年。此后，金融机构也对交易系统的研发越来越重视。对高频私募来说，交易系统的重要性甚至要超过交易策略。因此，对 IT 人员也是提供了极大的发展机会。"
-    preview_en: ""
+    preview_en: "The Procedural transactions proportion of trading volume in the secondary market is rising over the past five years, but compared to abroad, there is still a very large space for promotion. Programmatic transactions, compared to manual transactions, have great advantages, such as the speed of reporting, costs control, and all-day multi-market monitoring. Arbitrage is the birthplace of procedural transactions. Because arbitrage transactions have features of short duration and multi monitoring of the characteristics, the trading system should have very high stability and robustness. In 2015, A-share market trading volume exceeded one trillion, and it is  also the godel year of arbitrage transactions. Since then, financial institutions have also paid more and more attention to the development of trading systems. For high-frequency private placement, the importance of trading systems is even more than trading strategy. It is also a great chances for IT practitioners."
     slide:
 
 id_yaotangren:
