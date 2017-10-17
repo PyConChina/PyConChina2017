@@ -204,14 +204,15 @@ id_zhangweipeng:
 
 id_dinglaiqiang:
   name: 丁来强
+  name_en: "Laiqiang Ding"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/ding.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/ding.jpg
   intro: "美国纳斯达克上市的顶级大数据技术平台公司的工程架构师，历任 EMC 首席工程师、趋势科技技术经理等。从业超过 10 年，熟悉大数据平台构建技术、大数据分析可视化技术，安全领域技术等。Python 专家，擅长 Python、C++、JS 与 Scala。在大数据处理与安全领域，拥有 6 项美国专利。PyCon 历届首席讲师，TDI 讲师，曾经在 PyCon2015、PyCon2016 分享过 6 场与多达 5 个议题，覆盖大数据分析可视化与工作流调度、函数式、设计模式与 Python 核心语言等方面，听众赞誉极高。"
-  intro_en: ""
+  intro_en: "Nasdaq's top big data technology platform engineering architect, Laiqiang Ding served as chief engineer of EMC, technical manager of Qushi technology. He has experience of more than 10 years, and familiar with big data platform construction technology, big data analysis visualization technology, security technology and so on. Ding is a Python expert, good at Python, C++, JS and Scala. In the field of big data processing and security, he owns 6 patents in the United States. As chief speaker and TDI speaker of PyCon, he shared 6 with as many as 5 topics in PyCon2015 and PyCon2016 , covering big data visualization and analysis of workflow scheduling, function mode, design mode and Python core language. The audience highly praised."
   shanghai_topic:
     title: "Python 大数据分析可视化高级培训"
-    title_en: ""
+    title_en: "Advanced Training of Big Data Analysis And Visualization Using Python"
     preview: "课程亮点：
 1、实战与 10 年 + 经验与技巧结合，掌握数据分析与可视化以及在 Python 中应用的最佳捷径。
 2、全真案例，借助案例与数据分析的知识与原理，借助最佳实践，帮助您提高分析能力，从而获取大数据带来的价值。
