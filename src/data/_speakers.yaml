@@ -48,16 +48,17 @@ id_wangjianfeng:
 
 id_lijiaxuan:
   name: 李嘉璇
+  name_en: "Jiaxuan Li"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/lijiaxuan.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/lijiaxuan.jpg
   intro: "《TensorFlow 技术解析与实战》（版权也已被台湾引进）作者，51CTO WOTI、Oreilly Strata、Boolan 等大会深度学习讲师。对深度学习框架的架构、源码分析及在不同领域的应用有浓厚兴趣。有处理图像、社交文本数据情感分析、数据挖掘等实战经验。曾任职百度研发工程师，目前研究构建高性能的神经网络模型及 TensorFlow 下的压缩工具链，包括模型量化、常数化、剪枝。"
-  intro_en: ""
+  intro_en: "Author of \"TensorFlow: technical analysis and practice\", WOTI of 51CTO, lecturer of Oreilly Strata, Boolan and other Deep Learning conference, Jiaxuan Li has a strong interest in framework, source code, and applications in different areas of Deep Learning. She has rich experiences on image processing, emotional analysis of social network text and data mining. She once worked in Baidu R & D engineers, and now she is researching on how to build high-performance neural network model and tool chain under TensorFlow, such as model quantization, constant, and pruning."
   shanghai_topic:
     title: "TensorFlow 下的构建高性能神经网络模型的最佳实践"
-    title_en: ""
-    preview: "随着神经网络算法在图像、语音等领域都大幅度超越传统算法，但在应用到实际项目中却面临两个问题：计算量巨大及模型体积过大，不利于移动端和嵌入式的场景；模型内存占用过大，导致功耗和电量消耗过高。因此，如何对神经网络模型进行优化，使尽可能不损失精度的情况下，能减少模型的体积，并且计算量也降低，就是我们将深度学习在更广泛地场景下应用时要解决的问题。本次讲解主要着眼于在安防、工业物联网、智能机器人等设备，需要解决图像、语音场景下深度学习的加速问题，减小模型大小及计算量，构建高性能神经网络模型。"
-    preview_en: ""
+    title_en: "Best Practice of Constructing High-Performance Neural Network Model with TensorFlow"
+    preview: "神经网络算法在图像、语音等领域都大幅度超越传统算法，但在应用到实际项目中却面临两个问题：计算量巨大及模型体积过大，不利于移动端和嵌入式的场景；模型内存占用过大，导致功耗和电量消耗过高。因此，如何对神经网络模型进行优化，使尽可能不损失精度的情况下，能减少模型的体积，并且计算量也降低，就是我们将深度学习在更广泛地场景下应用时要解决的问题。本次讲解主要着眼于在安防、工业物联网、智能机器人等设备，需要解决图像、语音场景下深度学习的加速问题，减小模型大小及计算量，构建高性能神经网络模型。"
+    preview_en: "Compare with traditional algorithm, Neural Network achieved huge success in image, voice and other fields, but still facing two problems when applying to actual project: huge amount of computation and huge size of model means it is not conducive to mobile and embedded scenes, huge memory occupation resulting in huge power consumption. Therefore, how to optimize the neural network, making it smaller both in size and and the amount of calculation without loseing the accuracy, is the key problem we should solve before put Deep Learning into a broader application field. This topic focuses on the equipments used in security, industrial networking, intelligent robots and other area, aiming to accelerat the image and voice processing scene, reduceing the size of the model, and building the high-performance neural network model."
     slide:
 
 id_xiehanjian:
