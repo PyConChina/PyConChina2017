@@ -62,17 +62,18 @@ id_lijiaxuan:
     slide:
 
 id_xiehanjian:
-  name: 谢晗剑（Jan Xie）
+  name: 谢晗剑
+  name_en: "Jan Xie"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/xiehanjian.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/xiehanjian.jpg
-  intro: "秘猿科技首席执行官 & 联合创始人。区块链专业社区 EthFans 联合创始人。以太坊核心研发团队成员。DEVCON2 、DEVCON3 大会演讲嘉宾。 开源数字资产交易所 Peatio 核心开发者。拥有超过 10 年的软件系统架构与开发经验。"
-  intro_en: ""
+  intro: "秘猿科技首席执行官 & 联合创始人。区块链专业社区 EthFans 联合创始人。以太坊核心研发团队成员。DEVCON2 、DEVCON3 大会演讲嘉宾。开源数字资产交易所 Peatio 核心开发者。拥有超过 10 年的软件系统架构与开发经验。"
+  intro_en: "CEO & Co-Founder of Cryptape Technology. Co-Founder of EthFans, a rofessional community of block chain. Core member of Ethereum. Speaker of DEVCON2 and DEVCON3 conference. Core developer of Peatio, an open source digital asset exchange. Jan Xie has more than 10 years' experience in software system architecture and development."
   shanghai_topic:
-    title: "Ethereum on Python"
-    title_en: ""
+    title: "探秘以太坊的Python实现"
+    title_en: "Ethereum on Python"
     preview: "Pyethereum 是全球第二大的区块链项目以太坊的 Python 实现，此项目属于以太坊基金会，是官方的重要实现之一。此项目由以太坊创始人 Vitalik Buterin 本人直接参与，是以太坊的各种最新设计与想法的试验田。秘猿科技的核心团队参与了本项目并负责重要的编码，架构和code review 工作。今天，秘猿科技的 CEO 兼联合创始人谢晗剑（Jan Xie）将从 pyethereum 的视角，为大家深入剖析以太坊与智能合约。"
-    preview_en: ""
+    preview_en: "Pyethereum, belonging to the Ethereum Foundation, is Python implementation of the world's second largest block-chain project, Ethereum. This project is directly involved by Vitalik Buterin, founder of the Ethereum, and implements the latest thoughts and design of Ethereum. The core team of the Cryptape Technology participated in the project and was responsible for core coding, architecture designing and code reviewing. Today, Jan Xie, CEO and co-founder of Cryptape Technology, will take an in-depth analysis of the Ethereum and Smart Contracts from the perspective of Pyethereum."
     slide:
 
 id_gaominquan:
