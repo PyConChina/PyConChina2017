@@ -123,16 +123,17 @@ id_gezhixiong:
 
 id_yaotangren:
   name: 姚唐仁
+  name_en: "Tangren Yao"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/yaotangren.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/yaotangren.jpg
   intro: "七牛云人工智能实验室首席架构师，负责机器学习平台的设计与研发。在分布式系统，分布式存储领域有丰富的设计与实现的经验。曾在 IBM 系统与科技实验室从事高端企业存储设计与研发工作，在华为担任云存储架构师。"
-  intro_en: ""
+  intro_en: "Chief architect of AI library of Qiniu Cloud, Tangren Yao is responsible for the design and development of machine learning platform. Yao has rich experience in design and implementation in the distributed system and distributed storage field. Yao engaged in high-end enterprise storage design and research in IBM system and technology laboratories, and cloud storage architect in Huawei."
   shanghai_topic:
     title: "富媒体弹性机器学习平台"
-    title_en: ""
+    title_en: "Flexible Rich Media Machine Learning Platform"
     preview: "机器学习是 AI 领域最受关注的方向，从理论模型到产品化的过程中，如何提升模型训练的效率和精度，简化训练和验证数据集的处理，有效利用计算力资源来缩短产品化的周期，这些都是 AI 产品研发落地成功的关键因素。本次演讲从如何构建一款富媒体弹性机器学习平台出发，将分享七牛云在构建弹性机器学习平台中的经验以及该平台在行业场景中的应用。"
-    preview_en: ""
+    preview_en: "Machine learning is the most important direction in the field of AI. How to improve the efficiency and accuracy of model training, how to simplify the training and verification of data sets, how to make the effective use of computing power resources to shorten the product cycle - these are the key factors for the success of AI product from development to landing. Based on how to build a rich media flexible machine learning platform, this topic will share the experience of building a flexible machine learning platform and its industry scene applications."
     slide:
 
 id_huhaoran:
