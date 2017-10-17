@@ -168,14 +168,15 @@ id_gaojin:
 
 id_zhangweipeng:
   name: 张卫鹏
+  name_en: "Weipeng Zhang"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/zhangweipeng.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/zhangweipeng.jpg
   intro: "天壤网络科技天弈围棋项目负责人，专注于深度学习和强化学习，曾任电商广告决策系统负责人，目前为天弈围棋项目负责人。毕业于上海交通大学 Apex 实验室机器学习方向硕士，曾在 IBM 中国研究院负责 IBM 全球产品推荐系统，发表国际会议论文 4 篇，并发明美国专利 6 篇。活跃于机器学习与数据挖掘平台 Kaggle，在平台用户中排名 TOP1%。在机器学习和深度学习方向有比较深入的研究与实践。"
-  intro_en: ""
+  intro_en: "Focusing on deep learning and reinforcement learning, served as the head of advertising decision-making system, Weipeng Zhang is currently in charge of the project go project in Tianrang Network and Technology. Zhang graduated from Shanghai Jiao Tong University Apex laboratory, master of machine learning direction. He was in charge of IBM global product recommendation system at IBM Chinese Research Institute, published 4 international conference papers, and invented 6 American patents. He is active in Kaggle, a machine learning and data mining platform , ranking TOP1% among  users. He has a more in-depth research and practice in machine learning and deep learning."
   shanghai_topic:
     title: "TensorFlow 培训"
-    title_en: ""
+    title_en: "Training of TensorFlow "
     preview: "1. TensorFlow 新手入门
   - 简介
   - 下载与安装
