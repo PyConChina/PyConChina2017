@@ -19,37 +19,34 @@ shanghai:
   traffic_en: "Jinke Road Station at Metro Line 2"
   maplink: 'http://f.amap.com/0FFE0i'
   video: 'http://e.vhall.com/597478279'
-  date: 2017-10-22 8:30 ～ 17:00
+  date: 2017-10-22 8:50 ～ 17:20
   notices: ""
   morning:
-    - { time: "", speaker: id_dongliping }
-    - time: "9:00-9:10"
+    - time: "8:50-9:00"
       topic: "大会开场演讲和日程介绍"
       topic_en: "Check-in"
-    - { time: "9:10-9:55", speaker: id_dinglaiqiang }
-    - { time: "9:55-10:40", speaker: id_chujinliang }
-    - time: "10:40-10:50"
+    - { time: "9:00-9:45", speaker: id_feilianghong }
+    - { time: "9:45-10:30", speaker: id_lijiaxuan    }
+    - time: "10:30-11:40"
       topic: "茶歇"
       topic_en: ""
-    - { time: "10:50-11:35", speaker: id_chenxiaoyou }
-    - { time: "11:35-11:45", speaker: id_guohaochuan }
-    - { time: "11:45-11:55", speaker: id_ouyangmin }
-    - { time: "11:55-12:05", speaker: id_yanchao }
+    - { time: "10:40-11:25", speaker: id_houkai }
+    - { time: "11:25-12:10", speaker: id_yaotangren }
   noon:
-    - time: "11:55-13:00"
+    - time: "12:10-13:10"
       topic: "午餐"
       topic_en: ""
   afternoon:
-    - { time: "13:00-13:45", speaker: id_jackon }
-    - { time: "13:45-14:30", speaker: id_qinxuye }
-    - time: "14:30-14:45"
+    - { time: "13:10-13:55", speaker: id_gaominquan }
+    - { time: "13:55-14:40", speaker: id_liaoruiqi }
+    - { time: "14:40-15:25", speaker: id_wangjianfeng }
+    - time: "15:25-15:40"
       topic: "茶歇"
       topic_en: ""
-    - { time: "14:45-15:30", speaker: id_lijushun }
-    - { time: "15:30-16:15", speaker: id_yejunqiang }
-    - { time: "16:15-17:00", speaker: id_wangchen }
-    - { time: "17:00-17:40", speaker: id_chenfan }
-    - { time: "17:40-17:50", speaker: id_xuzhixiang }
+    - { time: "15:40 - 16:25", speaker: id_xiehanjian }
+    - { time: "16:25 - 17:10", speaker: id_gezhixiong }
+    - { time: "17:10 - 17:20", speaker: id_gaojin }
+    - { time: "17:20 - 17:30", speaker: id_huhaoran }
   lightening_talks:
   cancel_talks:
 
