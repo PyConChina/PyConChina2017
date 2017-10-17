@@ -138,16 +138,17 @@ id_yaotangren:
 
 id_huhaoran:
   name: 胡昊然
+  name_en: "Haoran Hu"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/huhaoran.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/huhaoran.jpg
-  intro: "华为 CloudBU 性能与工具部 高级工程师，曾在 IBM 系统实验室工作近 4 年。"
-  intro_en: ""
+  intro: "华为 CloudBU 性能与工具部 高级工程师，曾在 IBM 系统实验室工作近 4 年"
+  intro_en: "Senior Engineer of CloudBU Performance and Tools in Huawei. Worked for nearly four years at IBM Systems Lab"
   shanghai_topic:
-    title: "Profiling Openstack Using Huawei CPython(Loong) Interpreter"
-    title_en: ""
-    preview: "CPython 编程语言原生的 tracing 能力比较薄弱。为了帮助华为公有云开发人员，测试人员和 DevOps 人员更好地调试复杂场景下的 OpenStack。我们对 CPython 解释器进行了一系列的改造（内部名：loong 解释器），主要工作有以下几个部分：CPython 解释器的修改（定时器，关键事件探针，关键内存数据统计），做出 CPython 解释器所使用的 toolkits 集合，以及处理相关数据的 toolkits。同时，我们建立了一个内部 Huawei Openstack 的数据监控分析平台，动态地监控和分析 OpenStack 的一些指标，帮助开发识别了 OpenStack 在特定流模型下的热点，协助定位了一些疑难问题，并根据线上真实故障在研发环境模拟，不断测试预案演练方案。"
-    preview_en: ""
+    title: "华为 Openstack CPython(Loong) 解释器分析"
+    title_en: "Profiling Openstack Using Huawei CPython(Loong) Interpreter"
+    preview: "CPython 编程语言原生的 tracing 能力比较薄弱。为了帮助华为公有云开发人员，测试人员和 DevOps 人员更好地调试复杂场景下的 OpenStack，我们对 CPython 解释器进行了一系列的改造（内部名：loong 解释器），主要工作有以下几个部分：CPython 解释器的修改（定时器，关键事件探针，关键内存数据统计），做出 CPython 解释器所使用的 toolkits 集合，以及处理相关数据的 toolkits。同时，我们建立了一个内部 Huawei Openstack 的数据监控分析平台，动态地监控和分析 OpenStack 的一些指标，帮助开发识别了 OpenStack 在特定流模型下的热点，协助定位了一些疑难问题，并根据线上真实故障在研发环境模拟，不断测试预案演练方案。"
+    preview_en: "CPython programming language native tracing ability is relatively weak. In order to help HUAWEI public cloud developers, testers and DevOps personnel better debug OpenStack in complex scenarios, we have made a series of modifications to the CPython interpreter (internal name: Loong interpreter) with the following work: the modified the CPython interpreter (timer, key events probe, key memory data statistics), made a collection of CPython toolkits, and a toolkit for handling related data. At the same time, we set up an internal Huawei Openstack monitoring data analysis platform, monitoring and analysis of OpenStack dynamicly, helping the development of identified OpenStack hotspots in specific flow model, helping locate some problems, and simulation test plan exercise program  in the development environment according to the real faults."
     slide:
 
 id_gaojin:
