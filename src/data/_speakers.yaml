@@ -33,16 +33,17 @@ id_feilianghong:
 
 id_wangjianfeng:
   name: 王剑峰
+  name_en: "Jianfeng Wang"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/wangjianfeng.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/wangjianfeng.jpg
   intro: "上海开阖软件有限公司 创始人兼 CEO，Python 开源企业信息化项目 GoodERP 发起者，9 年 Python 开发经验，12 年 SAP 二次开发经验，5 年会计从业经验，曾任 OpenERP 中文社区社区经理，曾担任 37 个 Odoo 实施项目经理。"
-  intro_en: ""
+  intro_en: "Founder and CEO of Shanghai KaiHe Software Co. Ltd., Jianfeng Wang is the sponsor of Project GoodERP - an open source ERP software, who has 9 years experience of Python development, 12 years SAP secondary development experience, and 5 years accounting experience. Wang is the former OpenERP Chinese community community manager and project manager of 37 Odoo projects."
   shanghai_topic:
     title: "用 Python 开发 GoodERP"
-    title_en: ""
+    title_en: "Develop GoodERP with Python"
     preview: "作为 Python 在企业信息化中的应用典范，简述 GoodERP 如何借助 Python 语言的简洁、优雅特性实现 ERP 开源项目的大规模协同开发。希望能够吸引更多专业或业余的 Python 开发者参与到这个项目中来。用更快实现、更易维护的技术来解决身边的问题，一起构建一个 “用户数最多的中国本土开源 ERP 项目”。"
-    preview_en: ""
+    preview_en: "Introduce GoodERP's way of large-scale collaborative development using the feature of Python - simple and elegent, Jianfeng Wang hopes to attract more professional or amateur Python developers to participate in this project, and build a most-used Chinese open source ERP project."
     slide:
 
 id_lijiaxuan:
