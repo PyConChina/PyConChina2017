@@ -78,16 +78,17 @@ id_xiehanjian:
 
 id_gaominquan:
   name: 高民权
+  name_en: "Minquan Gao"
   city_shanghai: 1
   avatar: ./asset/images/avatar-2017/speakers/gaominquan.jpg
   avatar_en: ../asset/images/avatar-2017/speakers/gaominquan.jpg
-  intro: "浙江大学计算机研究生（目前已签约阿里巴巴集团高级工程师），专注领域为机器学习（自然语言理解， 文本自动生成， ChatBot）。 Python 使用 6 年。 研究生期间曾作为联合创始人创建宁波乔克兄弟杭州互联网中心."
-  intro_en: ""
+  intro: "浙江大学计算机研究生（目前已签约阿里巴巴集团高级工程师），专注领域为机器学习（自然语言理解， 文本自动生成， ChatBot）。 Python 使用 6 年。 研究生期间曾作为联合创始人创建宁波乔克兄弟杭州互联网中心。"
+  intro_en: "Graduate student of Zhejiang University, Minquan Gao focus on the field of machine learning (natural language understanding, text automatically generation, and ChatBot). 6 years' experience of Python using. During the graduate school, Gao created Hangzhou Internet Center of Ningbo QiaoKe Brothers as the co-founder."
   shanghai_topic:
     title: "The Pragmatic Guide of Sequence2Sequence based on Tensorflow"
     title_en: ""
     preview: "计算机自动翻译，计算机自动文本生成， 自动文本摘要，音乐自动生成，以及 Image Caption 等问题的核心都是 Sequence2Sequence。 Seq2Seq 是一种解决面向序列化问题的解决方法， 具有广泛的应用场景和前景， 但是这种模型难实现， 难训练， 入门较难。 在本议题中， 将会解释 Seq2Seq 的原理以及其实现方法，并以目前主流的 tensorflow 为框架， 解释在 tensorflow 下如何实现 Seq2Seq，并结合实践经验， 讨论 Seq2Seq 的实际应用中需要注意的问题， 以及介绍目前国际最先进的 Seq2Seq 改进方法。"
-    preview_en: ""
+    preview_en: "The core of computer automatic translation, text generation, text summary, music generation, and Image Caption, is Sequence2Sequence. Seq2Seq is a solution to the serialization-oriented problem, with a wide range of application scenarios and prospects。 But this model is difficult to achieve and train, meanwhile it is painful to beginners. In this topic, Gao  will explain the principles and implementation of Seq2Seq using Tensorflow. At the same time, he will also discuss the problem we should pay attention when we put Seq2Seq into applications. State-of-the-art Seq2Seq improvement methords will also be introduced."
     slide:
 
 id_houkai:
