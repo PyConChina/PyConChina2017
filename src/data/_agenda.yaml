@@ -19,7 +19,7 @@ shanghai:
   traffic_en: "Jinke Road Station at Metro Line 2"
   maplink: 'http://f.amap.com/0FFE0i'
   video: 'http://e.vhall.com/597478279'
-  date: 2017-10-22 8:50 ～ 17:20
+  date: 2017-10-22  8:50 ~ 17:20
   notices: ""
   morning:
     - time: "8:50-9:00"
@@ -29,24 +29,24 @@ shanghai:
     - { time: "9:45-10:30", speaker: id_lijiaxuan    }
     - time: "10:30-11:40"
       topic: "茶歇"
-      topic_en: ""
+      topic_en: "Tea Break"
     - { time: "10:40-11:25", speaker: id_houkai }
     - { time: "11:25-12:10", speaker: id_yaotangren }
   noon:
     - time: "12:10-13:10"
       topic: "午餐"
-      topic_en: ""
+      topic_en: "Lunch"
   afternoon:
     - { time: "13:10-13:55", speaker: id_gaominquan }
     - { time: "13:55-14:40", speaker: id_liaoruiqi }
     - { time: "14:40-15:25", speaker: id_wangjianfeng }
     - time: "15:25-15:40"
       topic: "茶歇"
-      topic_en: ""
-    - { time: "15:40 - 16:25", speaker: id_xiehanjian }
-    - { time: "16:25 - 17:10", speaker: id_gezhixiong }
-    - { time: "17:10 - 17:20", speaker: id_gaojin }
-    - { time: "17:20 - 17:30", speaker: id_huhaoran }
+      topic_en: "Tea Break"
+    - { time: "15:40-16:25", speaker: id_xiehanjian }
+    - { time: "16:25-17:10", speaker: id_gezhixiong }
+    - { time: "17:10-17:20", speaker: id_gaojin }
+    - { time: "17:20-17:30", speaker: id_huhaoran }
   lightening_talks:
   cancel_talks:
 
