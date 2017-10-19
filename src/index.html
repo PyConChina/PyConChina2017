@@ -79,7 +79,7 @@
   <div class="ui container pythoners">
     {% for donator in donators %}
     <a class="ui image label">
-      <img src="./asset/images/avatar/small/{{ loop.cycle('1', '2', '3') }}.jpg"> {{ donator}}
+      <img src="{{ site.base_url }}/asset/images/avatar/small/{{ loop.cycle('1', '2', '3') }}.jpg"> {{ donator}}
     </a>
     {% endfor %}
   </div>
