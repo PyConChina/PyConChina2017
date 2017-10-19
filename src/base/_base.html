@@ -13,7 +13,7 @@
 
   <link rel="stylesheet" type="text/css" href="http://cdn.staticfile.org/semantic-ui/2.1.6/semantic.min.css" />
   {% assets "app_css" %}
-  <link rel="stylesheet" type="text/css" href="{{ ASSET_URL }}" />
+  <link rel="stylesheet" type="text/css" href="{{ site.base_url }}/{{ ASSET_URL }}" />
   {% endassets %}
 
   <title>{{ page_title }} - {{ site.title }}</title>
@@ -74,7 +74,7 @@
 <script type="text/javascript" src="http://cdn.staticfile.org/semantic-ui/2.1.6/semantic.min.js"></script>
 
 {% assets "app_js" %}
-<script type="text/javascript" src="{{ ASSET_URL }}"></script>
+<script type="text/javascript" src="{{ site.base_url }}/{{ ASSET_URL }}"></script>
 {% endassets %}
 
 {% block js_block %}{% endblock %}
