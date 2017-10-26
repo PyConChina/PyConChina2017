@@ -67,6 +67,8 @@
     url: "http://cn.pycon.org/2016/"
     url_en: "http://cn.pycon.org/2016/en/index.html"
     url_external: 1
+- title: SLIDES
+  url: "https://github.com/youshoubianer/PyConChina-2017-slides"
 - title: EN
   title_en: 中文
   url: "en/index.html"
